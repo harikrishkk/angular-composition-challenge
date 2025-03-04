@@ -1,5 +1,6 @@
 ## Command
 
+```
 ng generate component navbar/logo --skip-import
 && ng generate component navbar/navlist --skip-import
 && ng generate component banner --skip-import &&
@@ -7,6 +8,7 @@ ng generate component button --skip-import
 && ng generate component about --skip-import
 && ng generate component footer --skip-import
 && ng generate component navbar --skip-import
+```
 
 There are 2 parts to using the components in the angular ecosystem.
 Step 1 is to create them, which we already did.
